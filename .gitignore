@@ -1,0 +1,4 @@
+*.tmplc
+output/*.html
+output/*.xml
+cache
